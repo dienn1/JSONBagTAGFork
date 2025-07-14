@@ -1,7 +1,8 @@
 # TAG Framework Fork for JSON-Bag experiments
 
-### The main repo for JSON-Bag: https://github.com/dienn1/JSONBag
 ### The main repo for TAG: https://github.com/GAIGResearch/TabletopGames
+### The main repo for JSON-Bag: https://github.com/dienn1/JSONBag
+### JSOB-Bag paper: [The Paper](https://github.com/dienn1/JSONBag/blob/main/JSONGameRepresentation-final-frfr.pdf)
 
 ## Overview
 Run ``src/main/java/evaluation/RunMultiple.java`` to generate raw game states JSON to ``Experiments/``. Uncomment all games to be run in gameNames.
